@@ -24,7 +24,7 @@ This is a Point of Sale (POS) system built with Express (or Hapi) for the backen
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Pancaananda/Frontend-POS.git)
    ```
 
 2. Navigate to the frontend directory:
